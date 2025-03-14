@@ -1,6 +1,6 @@
 # 📘 项目介绍
 
-本仓库主要用于存放 [ToolDelta](https://github.com/ToolDelta/ToolDelta) 的文档，基于 [VitePress](https://vitepress.dev/) 实现，用于快速查询功能！
+本仓库由 [Yeqingky](https://github.com/Yeqingky/) 维护 不定期从 [ToolDelta](https://github.com/ToolDelta/ToolDelta) 拉取更新 主要用于存放 [ToolDelta](https://github.com/ToolDelta/ToolDelta) 的文档，基于 [VitePress](https://vitepress.dev/) 实现，用于快速查询功能！
 
 # 🛠 项目构建
 
