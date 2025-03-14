@@ -7,7 +7,7 @@
 ::: warning
 由于 ToolDelta 所依赖的验证服务的关闭，如果您没有 `FastBuilder` 验证服务，您将无法继续在本地使用 ToolDelta。  
 因此，我们提供了 ToolDelta Panel 云服面板服务，使得您能以较低的价格在云端使用 ToolDelta。  
-详见我们的 [群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XGyPWC3k0-t0nZHGA2d0jzO7b9ogcI8N&authKey=zLTjnagIiquztxwxhfSdnT7sCTJY3iGT6Hgr5fJcU4heg98oyrhoNHCozMVYIbON&noverify=0&group_code=1030755163) 或我们的 [云端面板购买主站](http://store.dqyt.online)，仅将获利用于维持云服的运行。  
+详见我们的 [群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XGyPWC3k0-t0nZHGA2d0jzO7b9ogcI8N&authKey=zLTjnagIiquztxwxhfSdnT7sCTJY3iGT6Hgr5fJcU4heg98oyrhoNHCozMVYIbON&noverify=0&group_code=1030755163) 或我们的 [云端面板购买站(夜轻)](http://store.180280.xyz)，仅将获利用于维持云服的运行。  
   
 如果您确实拥有验证服务，那么您可以继续观看以下教程。
 :::
@@ -16,13 +16,13 @@
 
 ## 下载 ToolDelta
 
-| [Windows 用户点我](https://github.dqyt.online/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-windows.exe) | [Linux 用户点我](https://github.dqyt.online/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-linux) |
+| [Windows 用户点我](https://github.tooldelta.top/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-windows.exe) | [Linux 用户点我](https://github.tooldelta.top/https://github.com/ToolDelta/ToolDelta/releases/latest/download/ToolDelta-linux) |
 | ------ | ------ |
 
 安卓手机用户请使用 Termux 运行这段命令：
 
 ```bash
-curl -sSL https://github.dqyt.online/https://raw.githubusercontent.com/ToolDelta/ToolDelta/main/install.sh | bash
+curl -sSL https://github.tooldelta.top/https://raw.githubusercontent.com/ToolDelta/ToolDelta/main/install.sh | bash
 ```
 
 ## ToolDelta，启动！
