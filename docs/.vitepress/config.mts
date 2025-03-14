@@ -28,7 +28,7 @@ export default defineConfig({
     ],
 
     sitemap: {
-        hostname: "https://td-wiki.dqyt.online",
+        hostname: "https://td-wiki.180280.xyz",
     },
 
     themeConfig: {
