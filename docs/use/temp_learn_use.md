@@ -7,6 +7,8 @@
 
 R620版面板端：https://r620.tooldelta.top  
 
+拓界版面板端：https://tuojie.tooldelta.top
+
 :::
 
 
@@ -99,4 +101,4 @@ q - 退出
 
 启动或者运行的时候遇到问题？
  - ToolDelta 的大多数异常报错通常会在控制台里显示原因和解决方法。
- - 若有你自己无法解决的问题，请在 [QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XGyPWC3k0-t0nZHGA2d0jzO7b9ogcI8N&authKey=zLTjnagIiquztxwxhfSdnT7sCTJY3iGT6Hgr5fJcU4heg98oyrhoNHCozMVYIbON&noverify=0&group_code=1030755163)中告诉我们。
+ - 若有你自己无法解决的问题，请在 [QQ 群](https://qm.qq.com/q/460soUaxfq)中告诉我们。
