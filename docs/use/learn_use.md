@@ -7,7 +7,7 @@
 ::: warning
 由于 ToolDelta 所依赖的验证服务的关闭，如果您没有 `FastBuilder` 验证服务，您将无法继续在本地使用 ToolDelta。  
 因此，我们提供了 ToolDelta Panel 云服面板服务，使得您能以较低的价格在云端使用 ToolDelta。  
-详见我们的 [群聊](https://qm.qq.com/q/D6iQHc3GeI) ，仅将获利用于维持云服的运行。  
+详见我们的 [群聊](https://qm.qq.com/q/KVaz5VucEy) ，仅将获利用于维持云服的运行。  
   
 如果您确实拥有验证服务，那么您可以继续观看以下教程。
 :::
